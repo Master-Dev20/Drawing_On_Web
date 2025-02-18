@@ -16,7 +16,7 @@ Ensure **Python 3** is installed on your machine.
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/Master-Dev20/Drawing_On_Web 
-cd drawing-app-flask  
+cd Drawing_On_Web  
 ```  
 
 ### 2️⃣ Install Dependencies  
